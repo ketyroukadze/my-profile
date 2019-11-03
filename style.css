@@ -1,0 +1,55 @@
+element.style{
+background: white;
+padding: 60px;
+margin: 50px;
+border-radius: 20px;
+box-shadow: 0 15px 35x rgba (0,0,0,.1);
+}
+
+div{	
+border-top: 2px dotted black;
+border-right: 2px dotted black;
+border-bottom: 2px dotted black;
+border-left: 2px dotted black;
+
+width: 800px; 
+margin: 60px auto;
+}
+
+body{
+	text-align: center;
+	background-color: #F6F6F6;
+	font-family: 'Lora', serif;
+	font-size: 16px 
+	letter-spacing: 1px;
+
+
+
+
+h1 {
+	font-size: 48px;
+	color: #c6cbef;
+	font-family: Times New Roman;
+	text-transform: uppercase;
+}
+
+h2{
+	font-size: 20px;
+}
+
+p{
+	font-size: 16px;
+	color: grey;
+	font-style:
+
+}
+
+
+a{
+	font-size: 18px;
+	text-decoration: none;
+	color: rgb(0, 2, 118);
+}
+
+
+
